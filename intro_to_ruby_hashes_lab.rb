@@ -23,7 +23,7 @@ def monopoly_with_third_tier
   monopoly = {
     "railroads" => {
       :names => {
-        "Pennsylvania Railroad",
+        "Pennsylvania Railroad" => {},
         "B&O Railroad",
         "Reading Railroad",
         "Short Line Railroad"
